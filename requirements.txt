@@ -24,5 +24,5 @@ simplegeneric==0.8.1
 six==1.12.0
 soupsieve==1.9.2
 traitlets==4.3.2
-urllib3==1.25.3
+urllib3==1.26.5
 wcwidth==0.1.7
